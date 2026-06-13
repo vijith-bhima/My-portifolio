@@ -519,7 +519,7 @@
     }
 
     .portfolio-content::before {
-      content: "VIEW SOURCE CODE→";
+      content: "VIEW LIVE DEMO→";
       font-size: large;
       position: absolute;
       top: 50%;

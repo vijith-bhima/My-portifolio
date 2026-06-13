@@ -305,7 +305,7 @@
           }, 200);
 
           alert(
-            `source code for "${title}" will open in GitHub.`,
+            `Live Demofor "${title}" will open in New tab.`,
           );
         });
       });
